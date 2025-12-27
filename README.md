@@ -37,4 +37,4 @@ streamlit run app_web.py
 Konteks Penelitian
 Proyek ini merupakan bagian dari penelitian mahasiswa Teknik Informatika di Institut Sosial dan Teknologi Widuri, Jakarta (2025). Fokus utama penelitian adalah menganalisis bagaimana perubahan amplitudo terhadap waktu (envelope) menjadi fitur kunci yang membedakan jenis suara binatang secara objektif. 
 
-
+### Dikarenakan batasan ukuran file di GitHub, file model (.keras) dapat diunduh melalui https://drive.google.com/drive/folders/1NziLDa-hb-D289xRcqj0aqOgpknt4UGQ?usp=sharing ###
