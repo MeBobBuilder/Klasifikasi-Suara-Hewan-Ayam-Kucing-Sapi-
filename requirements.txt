@@ -1,6 +1,0 @@
-streamlit
-tensorflow-cpu
-librosa
-noisereduce
-pillow
-matplotlib
